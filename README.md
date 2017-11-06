@@ -1,2 +1,2 @@
-# HackKState
-Our Project for Hack K State
+# MewsicGen
+Artifical intelligence that writes music
